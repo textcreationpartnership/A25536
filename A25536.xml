@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to a paper entituled A brief account of the designs of the papists against the Earl of Shaftsbury, occasioned by his commitment, July 2, 1681.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25536</idno>
+            <idno type="STC">Wing A3328</idno>
+            <idno type="STC">ESTC R16435</idno>
+            <idno type="EEBO-CITATION">13618266</idno>
+            <idno type="OCLC">ocm 13618266</idno>
+            <idno type="VID">100807</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100807)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 832:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to a paper entituled A brief account of the designs of the papists against the Earl of Shaftsbury, occasioned by his commitment, July 2, 1681.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Davies,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Brief account of the designs of the papists against the Earl of Shaftsbury.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:100807:1" rendition="simple:additions"/>
+            <head>
+               <hi>AN ANSWER To a PAPER, Entituled,</hi> A Brief Account of the Deſigns of the <hi>PAPISTS</hi> againſt the Earl of <hi>Shaftsbury,</hi> occaſioned by his Commit<g ref="char:EOLhyphen"/>ment, <hi>July 2. 1681.</hi>
+            </head>
+            <p>I Will not pretend to enter into the matter of Fact, for which the Noble Peer ſtands Accuſed and Committed, but leave the merits of his Cauſe, and the diſquiſition of his Guilt or Innocence, together with the validity of the Evi<g ref="char:EOLhyphen"/>dence, to thoſe Noble Perſons who are to be his Judges; whoſe Honor, Wiſ<g ref="char:EOLhyphen"/>dom and Integrity without doubt will not fail to do both him, and themſelves Juſtice upon his Trial: and I think it had been no more than becomes all good Subjects, pa<g ref="char:EOLhyphen"/>tiently to attend the iſſue of that affair; and not, as the Author of this Paper, who pretends a ſervice and particular friendſhip to his Lordſhip, by Printing a lame Apolo<g ref="char:EOLhyphen"/>gy, to bring his Actions upon the ſtage, and expoſe them to a more curious Examina<g ref="char:EOLhyphen"/>tion, than poſſibly they would otherwiſe have fallen under.</p>
+            <p>Nor can I imagine, to what purpoſe the Vindicator ſhould endeavour to render his Lordſhips Fame and Intereſt ſo popular, as if the ſafety of the Nation, our Laws, Li<g ref="char:EOLhyphen"/>berties and Religion, were to have the ſame fate and period with his Lordſhips breath; that he is to be eſteemed the main pillar of the Engliſh Security; and that the happi<g ref="char:EOLhyphen"/>neſs of the Nation is chained to his good or ill Deſtiny; unleſs he had a ſecret deſign to do his Lordſhip a miſchief, by making him ſo infinitely popular, as thereby to become dangerous and ſuſpected; ſince it has been an old obſervation, collected from the Hi<g ref="char:EOLhyphen"/>ſtories of all places and ages, That few Subjects who have courted Popularity have been Innocent, and fewer Fortunate: and which is above all diſpute, the ſacred ſtory informs us, that when <hi>Abſalom</hi> made his warm Applications to the People, and there<g ref="char:EOLhyphen"/>by ſtole their hearts, it was the Prologue to an unnatural Rebellion againſt his Royal Father, and drew upon him the hard deſtiny of an untimely death, and a monument of Infamy which will laſt to all Eternity.</p>
+            <p>And indeed, the Vindicator is fallen upon very unhappy <hi>mediums</hi> to effect his De<g ref="char:EOLhyphen"/>ſign; for certainly any mans Reputation muſt be ill reſcued from pretended injuries, where the reparation is to be carved out, by Letters of Repriſal againſt the Govern<g ref="char:EOLhyphen"/>ment: and ſure he muſt be very much loſt for Topicks to make any perſon appear inno<g ref="char:EOLhyphen"/>cent, who is obliged to make uſe of ſuch, as render his Majeſty and the Government Criminal. And had he been maſter of ſecond thoughts or conſequences, he would certainly never have attempted to make his Lordſhips Reputation look white, by blac<g ref="char:EOLhyphen"/>kening his Sovereign, and leaving the Honor of his Lordſhip upon this iſſue, That he cannot be eſteemed Innocent but the King muſt appear ingrateful and unjuſt; and which, as the Affairs of the Nation now ſtand, his affirming that this commitment is an effect of the Deſigns which the Papiſts have had againſt the Earl of <hi>Shaftsbury,</hi> is neither better nor worſe, but an arraignment of the King and Council, as acceſſories
+<pb n="2" facs="tcp:100807:2"/>to the horrid Popiſh Plot; and by the moſt ridiculous contradiction, to bring the King and Government into a Conſpiracy againſt themſelves, that ſo the Earl of <hi>Shaftsbury</hi> may appear innocent.</p>
+            <p>Surely, If his Lordſhip be the perſon as he ſays, <hi>page</hi> 1. <hi>The whole tenor and univerſal conduct of whoſe life have ſpoken him, not only a perſon of the greateſt Abilities and Wiſdom, but of the higheſt Loyalty to his Majeſty, and warmeſt Zeal for his Service that any theſe three Kingdoms have produced in this age,</hi> he will with great Indignation reſent the Abuſe put upon him by this forward Apologiſt, and his warm zeal for his Majeſties Service can<g ref="char:EOLhyphen"/>not be ſo ſoon frozen, as to endure ſuch warm reflections, to be, for his ſake thrown up<g ref="char:EOLhyphen"/>on his Prince, as can proceed from none but ſuch Subjects as have ſued out a perpetual divorce between themſelves, and their Loyalty, and even the common decencies of good Breeding, ſince nothing worſe than Ingratitude can be charged upon the meaneſt Sub<g ref="char:EOLhyphen"/>ject, <hi>Ingratum ſi dixeris;</hi> and how much heavier is the ſcandal when 'tis levell'd at one of the greateſt Monarchs in the Univerſe.</p>
+            <p>Nor is it with leſs advantage to his Lordſhip, that the unthinking Vindicator takes ſuch pains to give the world an Inventory of his Lordſhips great Merits, and <hi>That there is not a Nobleman or Gentleman within the Kings Dominions, to whoſe influence his Majeſty doth more owe his peaceable and happy Reſtauration.</hi> For beſides, that by notoriety of Fact it is apparently falſe, and that no perſon can eclipſe the glory of the Illuſtrious Duke of <hi>Albemarle,</hi> ſo unqueſtionably allowed the happy Inſtrument, under Providence, of that wondrous event. If the Vindicator had meant honeſtly and fairly to his Majeſty, he ought to have acquainted the world, that no Nobleman or Gentleman within the Kings Dominions has drank larger draughts of Royal Bounty than his Lordſhip, that from an Eſtate of 3000 <abbr>
+                  <hi>l.</hi>
+               </abbr> or thereabouts <hi>per ann.</hi> he is advanced to above treble the Annual Re<g ref="char:EOLhyphen"/>venue, beſides ready money; that from the condition of a private Gentleman, he has, by his Majeſty, been raiſed to the honor of an Earldom, and a Peer of the Realm of <hi>England;</hi> that he was loaded with the honors of Privy Counſellor and Lord Chancel<g ref="char:EOLhyphen"/>lor of <hi>England,</hi> a place next in Honor and Power to the Throne: and ſure theſe were as high Rewards as a Subject of the greateſt merit can pretend to, unleſs he would ask the Kingdom alſo. And the envious concealment of theſe uncommon Favours, and marks of Royal Bounty, looks as if the Vindicator had ſome very evil intentions to his Lordſhips Fame, and to make him ſuſpected of Ingratitude towards his Prince, rather than that the King ſhould have been ingrateful to him, which all the world knows to the contrary.</p>
+            <p>But certainly the Apologiſt muſt be one of the moſt ſpiteful perſons in the world to his Lordſhips Fame; for whoever pretends to vindicate the Reputation of any perſon, with what is evidently falſe, muſt be deſigning to defame it at the higheſt rate; for no<g ref="char:EOLhyphen"/>thing but a deficiency of Truth, can be ſuppoſed to tempt any perſon to flie to Falſhood; nor would any perſon make uſe of it, but with an intention to be detected: and it was either very malicious, or improper, to tell the world, <hi>That the King can never forget the many great and memorable ſervices which this Gentleman did him, when few had either Cou<g ref="char:EOLhyphen"/>rage, Loyalty, or Prudence to render them uſeful to his Intereſt.</hi> For beſides the ingrateful re<g ref="char:EOLhyphen"/>flection of Cowards, Fools and Traitors thrown upon the indefinite number of his Ma<g ref="char:EOLhyphen"/>jeſties Friends, what can this be, but to refreſh the memories of the whole Nation with things much to the diſadvantage of his Lordſhips Reputation, and he will have much to do to lay the Devil of Curioſity which he has hereby conjured up, or to perſuade the world to believe, that when Sir <hi>Anthony Aſhly Cooper</hi> was in the beginning of the late times in actual Hoſtility againſt the King, that during <hi>Olivers</hi> Uſurpation, when his hand is to ſo many illegal and arbitrary Orders in the Council-Book, and the ſevereſt againſt the Royal Party, I ſay he will be a great Artiſt indeed, if he can perſuade either the King, or his People to forget them, or to remember them as memorable Services: and no man can believe but when the Apologiſt tells us, the King can never forget them, but that it is a more gentile way of reminding his Majeſty of them, who having forgiven theſe me<g ref="char:EOLhyphen"/>morable Services, might otherwiſe be ready to forget them too.</p>
+            <p>To the ſame effect we will ſuppoſe he takes another head of Reputation to recom<g ref="char:EOLhyphen"/>mend his Lordſhip to the world <hi>from his ſucceſsful adminiſtration of his Majeſties Affairs, for many years together.</hi> Juſt like the little Knave, who being chid at a Gentlemans Ta<g ref="char:EOLhyphen"/>ble for taking notice of a Stranger, who had a very extraordinary Noſe, the next time he ſaw him he mended the matter, with ſaying, that Gentleman has no Noſe at all. So
+<pb n="3" facs="tcp:100807:2"/>our Apologiſt mentions the ſucceſsful adminiſtration of Affairs, as if there had been no noſe at all on the face of them; as who ſhould ſay, I do not tell you who it was that adviſed the breaking of the Triple-League; I ſay nothing about the ſhutting up of the Exchequer; not a word of <hi>Delenda eſt Carthago,</hi> at any rate <hi>Delenda eſt Carthago,</hi> that out of pure zeal to the Proteſtant Intereſt, and Religion, <hi>Holland</hi> muſt, like <hi>Carthage,</hi> be utterly deſtroyed; for thus it will happen when men write Apologies: it does but whet the edge of Curioſity, to be prying into things, which they obſerve are ſo induſtriouſly covered and concealed. <hi>Et fugit ad ſalices, &amp; ſe cupit ante videri.</hi>
+            </p>
+            <p>And what Apology can be made for the fine ſtory of his Lordſhips withdrawing him<g ref="char:EOLhyphen"/>ſelf from the adminiſtration of Publick Affairs? ſince it is well known, that many of thoſe great tranſactions which the world is now made believe were in order to the in<g ref="char:EOLhyphen"/>troducing Popery and ſubverſion of the Proteſtant Intereſt at home and abroad, as the <hi>Dutch War, French League,</hi> ſhutting up the <hi>Exchequer,</hi> were acted while his Lordſhip ſate at the Steerage, <hi>and did ſo ſucceſsfully mannage his Majeſties Affairs.</hi> And people will be apt to think the Apologiſt has done his Lordſhip no right, ſince it is obvious he muſt needs know what the general fame ſpeak him; and Adviſer of, and an Aſſiſtant to thoſe Meaſures and Counſels, for which the Vindicator would have us believe his Lordſhip withdrew from the adminiſtration of Publick Affairs.</p>
+            <p>The Vindicator has been a great Traveller, and it may be derives an authority from thence by virtue of the Proverb, to impoſe upon us; or otherwiſe how comes he to know that the whole <hi>Poſſe</hi> of the <hi>Eccleſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſticks</hi> was muſtered up to defame him? and they muſt indeed, <hi>have a very implicit obedience</hi> who to <hi>ſink and eclipſe the Credit of this Peer,</hi> ſhould <hi>make uſe of their Pulpits</hi> to that purpoſe, rather than <hi>to gain ſouls to God, or commend Je<g ref="char:EOLhyphen"/>ſus Chriſt to the Conſciences of men.</hi> Truly this is a heavy charge againſt the whole Order of Eccleſiaſticks, that they ſhould Preach Blaſphemy againſt the Earl of <hi>Shaftsbury;</hi> but the Apologiſt ſhould have remembred, that in the ſame breath, he ſays the Clergy have no Honor to loſe; and then he needed not to have laid any ſtreſs upon their en<g ref="char:EOLhyphen"/>deavours: for what is the Moon the worſe, for the barking of the Curs? And indeed it is very unfortunate for his Lordſhip, to have ſuch a Champion for his Reputation, who has evidently forfeited all title to Credit or Eſteem: he who values not his own Reputa<g ref="char:EOLhyphen"/>tion being an ill Advocate for that of another. For I dare appeal to his Lordſhip for the falſhood of this ſcandal, who knows very well, that more Eccleſiaſticks in this Age are perſons of Honor and quality, and it may be men of as great Learning than any former Ages have known; and if ever the Clergy of <hi>England</hi> deſerved the Character, <hi>Clerus Britannicus ſtupor mundi,</hi> I think, and ſo do better Judges than my ſelf, that the preſent Engliſh Clergy may pretend to it.</p>
+            <p>It has not been my fortune, or any of my acquaintance that I have enquired of, to hear any of the Clergy take their Texts about the Lord <hi>Shaftsbury;</hi> only I have heard of one, who in my Lords own Country was very bold, but whether in the Pulpit or out of it I know not; and that my Lord, notwithſtanding that, generouſly gave him a very good Benefice when it fell; whether true or falſe I do not aver: but if it be true, it ſeems my Lord and his Apologiſt differ in their ſenſe, and that my Lord does not think ſpeak<g ref="char:EOLhyphen"/>ing againſt him ſo unpardonable a ſin as the Vindicator does.</p>
+            <p>I have nothing to ſay to his endeavouring to make his Lordſhip look white by bring<g ref="char:EOLhyphen"/>ing him out of Mrs. <hi>Celiers</hi> Meal-Tub; but I think the Apologiſt extremely to blame in vilifying the Evidence, and beſtowing ſuch language as would better become an Oyſter<g ref="char:EOLhyphen"/>womans Vindication, than that of a Noble Peer. He poſitively affirms them to be ſu<g ref="char:EOLhyphen"/>borned Villains, meer mercenary Raſcals, beggarly Fellows, and in a word Iriſh-men and Papiſts. Now either he knows them, or he does not; if he knows them, it is more than his Lordſhip does; for <hi>page</hi> 4. he tells us, <hi>It is with great amazement that we hear of a Peers being ſent to the</hi> Tower <hi>for high Treaſon, without being allowed to have the Witneſſes that ſwore againſt him, confronted with him, and examined</hi> ore tenus. And if he does not know them, as it is evident he does not, it is apparent that he ſhoots at Rovers, and that theſe perſons whom by gueſs he does ſo liberally defame, may be perſons both of Quality and Reputation; and truly to ſober and conſidering men, it will not much advance his Lordſhips Innocence, to have it vindicated by a perſon who dare thus boldly calumniate at adventure; the Tongues or Pens of ſuch daring men, being rarely eſteemed any ſlan<g ref="char:EOLhyphen"/>der to the perſons whom they deſign to blaſt, or any honor to the fame they endeavour to juſtifie.</p>
+            <pb n="4" facs="tcp:100807:3"/>
+            <p>But that which is moſt ſurprizing, is, that a perſon who would perſuade us he is ſo great an enemy to Popery, and to the Helliſh Popiſh Plot, and that my Lord <hi>Shaftsbury</hi> ſtands committed only for his zeal againſt the Papiſts, ſhould yet attempt his Lordſhips Vindication by ſuch a method, as muſt of neceſſity ruine the Reputation of the popiſh Plot: And ſure if the Vindicator has ſuch an abhorrence for the Popiſh Plot, he would have found out ſome better expedient than to eſtabliſh his Lordſhips Reputation upon the ruine of it, for if the Plea for his Lordſhips innocence will hold good for him, <hi>That were his Lordſhip a perſon traiterouſly inclined, yet he is wiſer than to communicate a Deſign of levying War for the Depoſing or Deſtroying his Prince to ſuch baſe and mercenary Raſcals.</hi> Why ſhould it not hold good for the Popiſh Lords, who have often for their Defence made uſe of the ſame argument and ſuggeſtion? Allow this, and what will become of the Popiſh Plot? and if you diſallow it, what will become of the Vindicators Plea, or the advantage his Lordſhips Innocence will receive by this intemperate Argument, which has more heat than light, to create belief?</p>
+            <p>The truth is, the Wiſdom of the Nation in Parliament, the Judges and Sages of the Law, have ever looked upon this Apology not only as frivolous, but diſſerviceable to thoſe who have made uſe of it; and that for this reaſon, That no perſon can commit Treaſon without Accomplices; and that it is to be ſuppoſed, they who have ſuch wicked intentions and deſigns, muſt make uſe of Inſtruments proportionable to them: And who can be ſuppoſed ſo fit to undertake infamous and deſperate Deſigns, as infamous and deſperate Men? And further, that ſome of thoſe who are ſaid to be Evidence a<g ref="char:EOLhyphen"/>gainſt his Lordſhip, were within theſe few days in an Eſteem ſo different from what the Vindicator repreſents them, that it is the general Diſcourſe of the Town that his Lord<g ref="char:EOLhyphen"/>ſhip was a zealous Advocate to obtain a Pardon for at leaſt one of his ſuppoſed Accuſers; of which people are apt, according to the liberty of their inclinations, to make various conjectures and conſtructions, not much to the ſenſe of the Vindicator. And by the fa<g ref="char:EOLhyphen"/>vour of the Vindicator, he cannot at this rate vilifie the Evidence of the Iriſh, as Iriſh; not only without a ſcandal upon a whole Nation of the Kings Subjects, but he muſt al<g ref="char:EOLhyphen"/>ſo endanger charging the guilt of Innocent Blood upon the whole Engliſh Nation; ſince ſo lately, <hi>Oliver Plunket</hi> the pretended Primate of <hi>Ireland,</hi> ſuffered the pains of death for high Treaſon, upon the Evidence of theſe, whom he is pleaſed to call Beggarly, Suborned, Mercenary Villains, Iriſh and Papiſts.</p>
+            <p>But the moſt ridiculous thing in the Vindication is his Poſtſcript, dated from <hi>Whitehal,</hi> in a Letter to Mr. <hi>Gibbs,</hi> which plainly ſhews it to be a Forgery of the Apologiſt himſelf; for he tells Mr. <hi>Gibbs, That the Earl of</hi> Shaftsbury <hi>was juſt then committed to the</hi> Tower, <hi>and Sir</hi> Tho. Player <hi>under Examination before the King and Council, and ſeveral Warrants out,</hi> &amp;c. Now if the Writer of this pretended Letter had been at <hi>Whitehal,</hi> he could have told Sir <hi>Tho. Player</hi> was not before the King and Council; and if he was not at <hi>Whitehal,</hi> as 'tis certain by this groſs miſtake, he was not, then the whole thing is a For<g ref="char:EOLhyphen"/>gery of his own, and I think that ſort of practiſe will tend little to the Reputation of the Earl of <hi>Shaftsbury,</hi> or to the diſcrediting the belief of a Presbyterian Plot: and thoſe little arts which he ſays are uſed to promote this Popiſh Intrigue, being found to be his own, will very much confirm even the wavering and incredulous in the belief that there may be other perſons who deſign againſt the King and Government, as well as the Pa<g ref="char:EOLhyphen"/>piſts.</p>
+            <p>If the ſenſe of my Duty and theſe horrible Scandals of Subornation of Witneſſes, In<g ref="char:EOLhyphen"/>gratitude, Injuſtice, and carrying on the Popiſh Plot, charged in this Vindication upon even the King himſelf, had not juſtly given the provocation, yet the injuſtice done to the Earl of <hi>Shaftsbury</hi> by this untoward Vindication, may in ſome meaſure juſtifie this Pa<g ref="char:EOLhyphen"/>per. All I have to add, is, if the Earl of <hi>Shaftsbury</hi> be Innocent, I hope he will receive a better Vindication at his Trial than this Apologiſt has made for him, or otherwiſe he is like to be in <hi>Miſericordia Domini Regis:</hi> and if he be Guilty, he that is an Abettor, Com<g ref="char:EOLhyphen"/>forter, or Aider of a Traitor, makes himſelf one too. And for my particular, I joyn with the deſpiſed implicit obedient Eccleſiaſticks in their Litany, From all Privy Conſpiracy, Treaſon and Rebellion, whether of Papiſts or Presbyterians, <hi>Good Lord deliver us.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London:</hi> Printed for <hi>T. Davies,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
